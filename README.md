@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Guddu27
+- 👀 I’m interested in software development 
+- 🌱 I’m currently studying Computer Science  
+- 📫 Reach me : sarthakgatkal09@gmail.com
+- 🌝 Insta Handle : @guddu.in4k
+- 💡 Languages I code with : C/C++
